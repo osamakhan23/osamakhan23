@@ -1,6 +1,14 @@
 ### Hi there 👋
 # 💫 About Me:
-I am a motivated Business Graduate with 4+ years of experience in Operations and Recruitment. Currently pursuing a Master of Information Technology and transitioning to a career in Software Development. Proficient in Java, HTML, CSS, and JavaScript. Known for driving continuous improvement initiatives, creating robust risk mitigation plans, and achieving KPIs. Strong problem-solving skills and ability to lead teams. Seeking opportunities to leverage skills and experience in a dynamic and innovative environment
+I'm a Cloud Support Engineer at AWS, focused on cloud networking and observability. My primary domains include VPC, Elastic Load Balancing, CloudFront, Route 53, Direct Connect, CloudWatch, EventBridge, and Auto Scaling, but cloud problems rarely stay in one service. I work across dependent services end-to-end to get customers to resolution.
+
+What I enjoy most right now is cloud observability. I troubleshoot CloudWatch integrations alongside third-party platforms like Datadog, Splunk, and Grafana, helping customers navigate multi-cloud and hybrid monitoring setups daily.
+
+Before AWS, I spent 4+ years in operations leadership (Koala, DiDi, Carbar) running teams, building SOPs, and improving delivery metrics. That background gave me a structured approach to problem-solving and a bias toward clear communication, both of which I bring to every customer interaction.
+
+My path into tech started with a Master of IT at the University of Auckland (GPA 8.1/9), a software engineering internship at Verum, and an AI & Data analyst role at Deloitte. I hold AWS Solutions Architect Associate, AWS AI Practitioner, and Cloud Practitioner certifications.
+
+I'm constantly learning and building towards Cloud Engineering, DevOps, Forward Deployment Engineering, or Cloud Observability roles. Positions where I can combine hands-on infrastructure depth with customer-facing technical delivery.
 
 
 ## 🌐 Socials:
